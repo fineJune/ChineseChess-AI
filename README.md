@@ -1,5 +1,4 @@
 # ChineseChess-AI
-@[TOC](教你怎么用Python和Qt5编写中国象棋AI版——简明易懂版)
 
 # 一、前言
 
@@ -31,4 +30,4 @@
 ## 四、最后
 各模块具体实现思路会在本人后续博客中进行更新，敬请关注。
 
-项目地址:[GITHUB托管](https://github.com/fineJune/ChineseChess-AI)
+项目地址:[CSDN介绍](https://blog.csdn.net/Mr_June/article/details/114693789)
